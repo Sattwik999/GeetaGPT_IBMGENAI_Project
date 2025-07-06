@@ -6,3 +6,4 @@ sentence-transformers
 requests
 pandas
 numpy
+langchain-community

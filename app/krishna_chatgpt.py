@@ -5,7 +5,8 @@ import pandas as pd
 import json
 import time  # Missing import added here
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
+
 from langchain.vectorstores import FAISS
 import numpy as np
 from io import StringIO
