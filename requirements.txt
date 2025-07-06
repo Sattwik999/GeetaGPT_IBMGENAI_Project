@@ -1,0 +1,8 @@
+streamlit
+langchain
+faiss-cpu
+transformers
+sentence-transformers
+requests
+pandas
+numpy
