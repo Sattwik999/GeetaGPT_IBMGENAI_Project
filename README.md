@@ -23,7 +23,7 @@
 ## 🚀 Live Demo
 
 > 🧪 Hosted on **Streamlit Community Cloud**  
-> 🔗 [Click here to try the app](https://your-username-geetagpt-ibmgenai-project.streamlit.app/) ← *(Replace with your actual Streamlit link after deployment)*
+> 🔗 https://krishnawisdom.streamlit.app/
 
 ---
 
@@ -103,23 +103,6 @@ Your app will open in a new browser window at:  
 
 ---
 
-## ☁️ Deployment on Streamlit Cloud
-
-1. Push your project to a public GitHub repo
-2. Visit [https://streamlit.io/cloud](https://streamlit.io/cloud)
-3. Click **“New app”**
-4. Choose:
-   - **Repository:** `Sattwik999/GeetaGPT_IBMGENAI_Project`
-   - **Branch:** `main`
-   - **App file:** `app/krishna_chatgpt.py`
-5. Click **Deploy**
-
-You’ll get a public URL like:
-```
-https://your-username-geetagpt-ibmgenai-project.streamlit.app
-```
-
----
 
 ## 📚 Datasets Used
 
